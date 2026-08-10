@@ -13,9 +13,10 @@
           "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/idle-20260810T071108Z.petpkg"
         },
         "idle-sleep" : {
-          "currentFile" : "packages/Corgi/idle-sleep-20260810T071108Z.petpkg",
-          "sourceHash" : "0d924c4a802ead6dca7944676132180deadabc3623f673952b85690678a2e8fc",
-          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/idle-sleep-20260810T071108Z.petpkg"
+          "currentFile" : "packages/Corgi/idle-sleep-20260810T104758Z.petpkg",
+          "previousFile" : "packages/Corgi/idle-sleep-20260810T071108Z.petpkg",
+          "sourceHash" : "cc90ac4b4d2b077aba180d15b299c893d412b49b90d79fb0223c5d1a0ba26192",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/idle-sleep-20260810T104758Z.petpkg"
         },
         "run-left" : {
           "currentFile" : "packages/Corgi/run-left-20260810T071108Z.petpkg",
@@ -28,10 +29,27 @@
           "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/run-right-20260810T071108Z.petpkg"
         }
       },
+      "version" : 4
+    },
+    "Husky" : {
+      "actions" : {
+
+      },
       "preview" : {
-        "currentFile" : "previews/Corgi/preview-20260810T071108Z.webp",
-        "sourceHash" : "ff4dd8d6e4b7ef1387b579a310bbd758509856704732d20361d028cd14e5e50b",
-        "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/previews/Corgi/preview-20260810T071108Z.webp"
+        "currentFile" : "previews/Husky/preview-20260810T130638Z.webp",
+        "sourceHash" : "46a2f8efbe69483120d9ca8b7ee2e7b962e4a1d508eb71d65aa41f6f14f6dc70",
+        "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/previews/Husky/preview-20260810T130638Z.webp"
+      },
+      "version" : 1
+    },
+    "goose" : {
+      "actions" : {
+
+      },
+      "preview" : {
+        "currentFile" : "previews/goose/preview-20260810T130638Z.webp",
+        "sourceHash" : "a2d8b871927e21a391f8e035786d515529825aa2996d4523a9495d45bd57c18a",
+        "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/previews/goose/preview-20260810T130638Z.webp"
       },
       "version" : 1
     },
@@ -63,12 +81,7 @@
           "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/run-right-20260810T071108Z.petpkg"
         }
       },
-      "preview" : {
-        "currentFile" : "previews/hen/preview-20260810T071108Z.webp",
-        "sourceHash" : "9fb0b61c4b3339ceee7d9e95c374883315d8b474a3a54bd032a056fbfb1de5fa",
-        "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/previews/hen/preview-20260810T071108Z.webp"
-      },
-      "version" : 1
+      "version" : 4
     },
     "orange-cat" : {
       "actions" : {
@@ -108,12 +121,7 @@
           "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/run-right-20260810T071108Z.petpkg"
         }
       },
-      "preview" : {
-        "currentFile" : "previews/orange-cat/preview-20260810T071108Z.webp",
-        "sourceHash" : "15a6b2d5eb145819b3696defaffc7b52bbf3d9724f005681bed37bc0a46deec7",
-        "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/previews/orange-cat/preview-20260810T071108Z.webp"
-      },
-      "version" : 1
+      "version" : 4
     }
   }
 }
