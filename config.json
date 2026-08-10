@@ -1,0 +1,146 @@
+{
+  "pets" : {
+    "Corgi" : {
+      "descriptionLocalizationKey" : {
+        "de" : "Ein fröhlicher und zutraulicher kleiner Corgi.",
+        "en" : "A cheerful and affectionate little corgi.",
+        "fr" : "Un petit corgi joyeux et affectueux.",
+        "it" : "Un piccolo corgi allegro e affettuoso.",
+        "ja" : "元気で人懐っこい小さなコーギー。",
+        "ko" : "활기차고 다정한 작은 코기.",
+        "zh-Hans" : "一只活泼亲人的小柯基。",
+        "zh-Hant" : "一隻活潑親人的小柯基。"
+      },
+      "fileAddress" : {
+        "drag" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/drag-20260810T071108Z.petpkg",
+        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/idle-20260810T071108Z.petpkg",
+        "idle-sleep" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/idle-sleep-20260810T071108Z.petpkg",
+        "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/run-left-20260810T071108Z.petpkg",
+        "run-right" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/run-right-20260810T071108Z.petpkg"
+      },
+      "imageSizing" : {
+        "catContentLeftInsetRatio" : 0.375,
+        "catContentWidthRatio" : 0.25,
+        "framesPerStep" : 1,
+        "stepDistanceImageWidthRatio" : 0.125
+      },
+      "movementSpeedMultiplier" : 1.2,
+      "preview" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/previews/Corgi/preview-20260810T071108Z.webp",
+      "store" : {
+        "compatiblePetFamilies" : [
+          "corgi"
+        ],
+        "enabled" : true,
+        "minimumAppVersion" : "1.0",
+        "sortOrder" : 1
+      },
+      "titleLocalizationKey" : {
+        "de" : "Corgi",
+        "en" : "Corgi",
+        "fr" : "Corgi",
+        "it" : "Corgi",
+        "ja" : "コーギー",
+        "ko" : "코기",
+        "zh-Hans" : "柯基",
+        "zh-Hant" : "柯基"
+      },
+      "version" : 1
+    },
+    "hen" : {
+      "descriptionLocalizationKey" : {
+        "de" : "Eine lebhafte kleine Henne, die über deinen Schreibtisch flitzt.",
+        "en" : "A lively little hen who scurries across your desktop.",
+        "fr" : "Une petite poule pleine d’entrain qui court sur votre bureau.",
+        "it" : "Una vivace gallinella che corre sul desktop.",
+        "ja" : "デスクトップを元気に駆け回る小さなめんどり。",
+        "ko" : "데스크톱을 힘차게 뛰어다니는 작은 암탉.",
+        "zh-Hans" : "一只在桌面上活泼奔跑的小母鸡。",
+        "zh-Hant" : "一隻在桌面上活潑奔跑的小母雞。"
+      },
+      "fileAddress" : {
+        "climb" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/climb-20260810T071108Z.petpkg",
+        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/idle-20260810T071108Z.petpkg",
+        "idle-sleep" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/idle-sleep-20260810T071108Z.petpkg",
+        "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/run-left-20260810T071108Z.petpkg",
+        "run-right" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/run-right-20260810T071108Z.petpkg"
+      },
+      "imageSizing" : {
+        "catContentLeftInsetRatio" : 0.375,
+        "catContentWidthRatio" : 0.25,
+        "framesPerStep" : 1,
+        "stepDistanceImageWidthRatio" : 0.125
+      },
+      "movementSpeedMultiplier" : 1.2,
+      "preview" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/previews/hen/preview-20260810T071108Z.webp",
+      "store" : {
+        "compatiblePetFamilies" : [
+          "hen"
+        ],
+        "enabled" : true,
+        "minimumAppVersion" : "1.0",
+        "sortOrder" : 2
+      },
+      "titleLocalizationKey" : {
+        "de" : "Henne",
+        "en" : "Hen",
+        "fr" : "Poule",
+        "it" : "Gallina",
+        "ja" : "めんどり",
+        "ko" : "암탉",
+        "zh-Hans" : "小母鸡",
+        "zh-Hant" : "小母雞"
+      },
+      "version" : 1
+    },
+    "orange-cat" : {
+      "descriptionLocalizationKey" : {
+        "de" : "Eine neugierige orangefarbene Katze, die an deinen Fenstern bleibt.",
+        "en" : "A curious orange cat who stays by your windows.",
+        "fr" : "Un chat roux curieux qui reste près de vos fenêtres.",
+        "it" : "Un curioso gatto arancione che resta vicino alle finestre.",
+        "ja" : "ウインドウのそばにいる好奇心旺盛な茶トラ猫。",
+        "ko" : "창가를 좋아하는 호기심 많은 치즈 고양이.",
+        "zh-Hans" : "一只喜欢守在窗口边的好奇橘猫。",
+        "zh-Hant" : "一隻喜歡守在視窗邊的好奇橘貓。"
+      },
+      "fileAddress" : {
+        "climb" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/climb-20260810T071108Z.petpkg",
+        "drag" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/drag-20260810T071108Z.petpkg",
+        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/idle-20260810T071108Z.petpkg",
+        "idle-play" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/idle-play-20260810T071108Z.petpkg",
+        "idle-sleep" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/idle-sleep-20260810T071108Z.petpkg",
+        "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/run-left-20260810T071108Z.petpkg",
+        "run-right" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/run-right-20260810T071108Z.petpkg"
+      },
+      "imageSizing" : {
+        "catContentLeftInsetRatio" : 0.375,
+        "catContentWidthRatio" : 0.25,
+        "framesPerStep" : 1,
+        "stepDistanceImageWidthRatio" : 0.125
+      },
+      "movementSpeedMultiplier" : 1.2,
+      "preview" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/previews/orange-cat/preview-20260810T071108Z.webp",
+      "store" : {
+        "compatiblePetFamilies" : [
+          "orange-cat"
+        ],
+        "enabled" : true,
+        "minimumAppVersion" : "1.0",
+        "sortOrder" : 0
+      },
+      "titleLocalizationKey" : {
+        "de" : "Orangefarbene Katze",
+        "en" : "Orange Cat",
+        "fr" : "Chat roux",
+        "it" : "Gatto arancione",
+        "ja" : "茶トラ猫",
+        "ko" : "치즈 고양이",
+        "zh-Hans" : "橘猫",
+        "zh-Hant" : "橘貓"
+      },
+      "version" : 1
+    }
+  },
+  "schemaVersion" : 2,
+  "updatedAt" : "2026-08-10T07:25:13Z"
+}
