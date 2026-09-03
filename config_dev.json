@@ -1,0 +1,267 @@
+{
+  "pets" : {
+    "Corgi" : {
+      "descriptionLocalizationKey" : {
+        "de" : "Ein fröhlicher und zutraulicher kleiner Corgi.",
+        "en" : "A cheerful and affectionate little corgi.",
+        "fr" : "Un petit corgi joyeux et affectueux.",
+        "it" : "Un piccolo corgi allegro e affettuoso.",
+        "ja" : "元気で人懐っこい小さなコーギー。",
+        "ko" : "활기차고 다정한 작은 코기.",
+        "zh-Hans" : "一只活泼亲人的小柯基。",
+        "zh-Hant" : "一隻活潑親人的小柯基。"
+      },
+      "fileAddress" : {
+        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/idle-20260810T071108Z.petpkg",
+        "idle-sleep" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/idle-sleep-20260810T104758Z.petpkg",
+        "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/run-left-20260810T071108Z.petpkg",
+        "run-right" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/run-right-20260810T071108Z.petpkg"
+      },
+      "imageSizing" : {
+        "catContentLeftInsetRatio" : 0.375,
+        "catContentWidthRatio" : 0.25,
+        "framesPerStep" : 1,
+        "stepDistanceImageWidthRatio" : 0.125
+      },
+      "movementSpeedMultiplier" : 1.2,
+      "store" : {
+        "compatiblePetFamilies" : [
+          "corgi"
+        ],
+        "enabled" : true,
+        "minimumAppVersion" : "1.0",
+        "sortOrder" : 1
+      },
+      "titleLocalizationKey" : {
+        "de" : "Corgi",
+        "en" : "Corgi",
+        "fr" : "Corgi",
+        "it" : "Corgi",
+        "ja" : "コーギー",
+        "ko" : "코기",
+        "zh-Hans" : "柯基",
+        "zh-Hant" : "柯基"
+      },
+      "version" : 4
+    },
+    "Husky" : {
+      "descriptionLocalizationKey" : {
+        "de" : "Ein verspielter und neugieriger kleiner Husky.",
+        "en" : "A playful and curious little husky.",
+        "fr" : "Un petit husky joueur et curieux.",
+        "it" : "Un piccolo husky giocoso e curioso.",
+        "ja" : "元気で好奇心旺盛な小さなハスキー。",
+        "ko" : "활발하고 호기심 많은 작은 허스키.",
+        "zh-Hans" : "一只活泼又好奇的小哈士奇。",
+        "zh-Hant" : "一隻活潑又好奇的小哈士奇。"
+      },
+      "fileAddress" : {
+
+      },
+      "imageSizing" : {
+        "catContentLeftInsetRatio" : 0.375,
+        "catContentWidthRatio" : 0.25,
+        "framesPerStep" : 1,
+        "stepDistanceImageWidthRatio" : 0.125
+      },
+      "movementSpeedMultiplier" : 1.2,
+      "preview" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/previews/Husky/preview-20260810T130638Z.webp",
+      "store" : {
+        "compatiblePetFamilies" : [
+          "husky"
+        ],
+        "enabled" : true,
+        "minimumAppVersion" : "1.0",
+        "sortOrder" : 3
+      },
+      "titleLocalizationKey" : {
+        "de" : "Husky",
+        "en" : "Husky",
+        "fr" : "Husky",
+        "it" : "Husky",
+        "ja" : "ハスキー",
+        "ko" : "허스키",
+        "zh-Hans" : "哈士奇",
+        "zh-Hant" : "哈士奇"
+      },
+      "version" : 1
+    },
+    "goose" : {
+      "descriptionLocalizationKey" : {
+        "de" : "Eine stolze und niedliche kleine Gans.",
+        "en" : "A proud and charming little goose.",
+        "fr" : "Une petite oie fière et adorable.",
+        "it" : "Una piccola oca fiera e adorabile.",
+        "ja" : "元気でかわいい小さなガチョウ。",
+        "ko" : "당당하고 귀여운 작은 거위.",
+        "zh-Hans" : "一只神气又可爱的小白鹅。",
+        "zh-Hant" : "一隻神氣又可愛的小白鵝。"
+      },
+      "fileAddress" : {
+
+      },
+      "imageSizing" : {
+        "catContentLeftInsetRatio" : 0.375,
+        "catContentWidthRatio" : 0.25,
+        "framesPerStep" : 1,
+        "stepDistanceImageWidthRatio" : 0.125
+      },
+      "movementSpeedMultiplier" : 1.2,
+      "preview" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/previews/goose/preview-20260810T130638Z.webp",
+      "store" : {
+        "compatiblePetFamilies" : [
+          "goose"
+        ],
+        "enabled" : true,
+        "minimumAppVersion" : "1.0",
+        "sortOrder" : 4
+      },
+      "titleLocalizationKey" : {
+        "de" : "Gans",
+        "en" : "Goose",
+        "fr" : "Oie",
+        "it" : "Oca",
+        "ja" : "ガチョウ",
+        "ko" : "거위",
+        "zh-Hans" : "小白鹅",
+        "zh-Hant" : "小白鵝"
+      },
+      "version" : 1
+    },
+    "hen" : {
+      "descriptionLocalizationKey" : {
+        "de" : "Eine lebhafte kleine Henne, die über deinen Schreibtisch flitzt.",
+        "en" : "A lively little hen who scurries across your desktop.",
+        "fr" : "Une petite poule pleine d’entrain qui court sur votre bureau.",
+        "it" : "Una vivace gallinella che corre sul desktop.",
+        "ja" : "デスクトップを元気に駆け回る小さなめんどり。",
+        "ko" : "데스크톱을 힘차게 뛰어다니는 작은 암탉.",
+        "zh-Hans" : "一只在桌面上活泼奔跑的小母鸡。",
+        "zh-Hant" : "一隻在桌面上活潑奔跑的小母雞。"
+      },
+      "fileAddress" : {
+        "climb" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/climb-20260810T071108Z.petpkg",
+        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/idle-20260810T071108Z.petpkg",
+        "idle-sleep" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/idle-sleep-20260810T071108Z.petpkg",
+        "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/run-left-20260810T071108Z.petpkg",
+        "run-right" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/run-right-20260810T071108Z.petpkg"
+      },
+      "imageSizing" : {
+        "catContentLeftInsetRatio" : 0.375,
+        "catContentWidthRatio" : 0.25,
+        "framesPerStep" : 1,
+        "stepDistanceImageWidthRatio" : 0.125
+      },
+      "movementSpeedMultiplier" : 1.2,
+      "store" : {
+        "compatiblePetFamilies" : [
+          "hen"
+        ],
+        "enabled" : true,
+        "minimumAppVersion" : "1.0",
+        "sortOrder" : 2
+      },
+      "titleLocalizationKey" : {
+        "de" : "Henne",
+        "en" : "Hen",
+        "fr" : "Poule",
+        "it" : "Gallina",
+        "ja" : "めんどり",
+        "ko" : "암탉",
+        "zh-Hans" : "小母鸡",
+        "zh-Hant" : "小母雞"
+      },
+      "version" : 4
+    },
+    "orange-cat" : {
+      "descriptionLocalizationKey" : {
+        "de" : "Eine neugierige orangefarbene Katze, die an deinen Fenstern bleibt.",
+        "en" : "A curious orange cat who stays by your windows.",
+        "fr" : "Un chat roux curieux qui reste près de vos fenêtres.",
+        "it" : "Un curioso gatto arancione che resta vicino alle finestre.",
+        "ja" : "ウインドウのそばにいる好奇心旺盛な茶トラ猫。",
+        "ko" : "창가를 좋아하는 호기심 많은 치즈 고양이.",
+        "zh-Hans" : "一只喜欢守在窗口边的好奇橘猫。",
+        "zh-Hant" : "一隻喜歡守在視窗邊的好奇橘貓。"
+      },
+      "fileAddress" : {
+        "climb" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/climb-20260810T071108Z.petpkg",
+        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/idle-20260810T071108Z.petpkg",
+        "idle-play" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/idle-play-20260810T071108Z.petpkg",
+        "idle-sleep" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/idle-sleep-20260810T071108Z.petpkg",
+        "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/run-left-20260810T071108Z.petpkg",
+        "run-right" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/run-right-20260810T071108Z.petpkg"
+      },
+      "imageSizing" : {
+        "catContentLeftInsetRatio" : 0.375,
+        "catContentWidthRatio" : 0.25,
+        "framesPerStep" : 1,
+        "stepDistanceImageWidthRatio" : 0.125
+      },
+      "movementSpeedMultiplier" : 1.2,
+      "store" : {
+        "compatiblePetFamilies" : [
+          "orange-cat"
+        ],
+        "enabled" : true,
+        "minimumAppVersion" : "1.0",
+        "sortOrder" : 0
+      },
+      "titleLocalizationKey" : {
+        "de" : "Orangefarbene Katze",
+        "en" : "Orange Cat",
+        "fr" : "Chat roux",
+        "it" : "Gatto arancione",
+        "ja" : "茶トラ猫",
+        "ko" : "치즈 고양이",
+        "zh-Hans" : "橘猫",
+        "zh-Hant" : "橘貓"
+      },
+      "version" : 4
+    },
+    "parrot" : {
+      "descriptionLocalizationKey" : {
+        "de" : "Ein kluger und lebhafter kleiner Papagei.",
+        "en" : "A clever and lively little parrot.",
+        "fr" : "Un petit perroquet intelligent et plein de vie.",
+        "it" : "Un piccolo pappagallo intelligente e vivace.",
+        "ja" : "賢くて元気な小さなオウム。",
+        "ko" : "영리하고 활기찬 작은 앵무새.",
+        "zh-Hans" : "一只聪明又活泼的小鹦鹉。",
+        "zh-Hant" : "一隻聰明又活潑的小鸚鵡。"
+      },
+      "fileAddress" : {
+
+      },
+      "imageSizing" : {
+        "catContentLeftInsetRatio" : 0.375,
+        "catContentWidthRatio" : 0.25,
+        "framesPerStep" : 1,
+        "stepDistanceImageWidthRatio" : 0.125
+      },
+      "movementSpeedMultiplier" : 1.2,
+      "preview" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/previews/parrot/preview.webp",
+      "store" : {
+        "compatiblePetFamilies" : [
+          "parrot"
+        ],
+        "enabled" : true,
+        "minimumAppVersion" : "1.0",
+        "sortOrder" : 5
+      },
+      "titleLocalizationKey" : {
+        "de" : "Papagei",
+        "en" : "Parrot",
+        "fr" : "Perroquet",
+        "it" : "Pappagallo",
+        "ja" : "オウム",
+        "ko" : "앵무새",
+        "zh-Hans" : "小鹦鹉",
+        "zh-Hant" : "小鸚鵡"
+      },
+      "version" : 1
+    }
+  },
+  "schemaVersion" : 2,
+  "updatedAt" : "2026-08-15T02:19:10Z"
+}
