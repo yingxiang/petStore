@@ -72,7 +72,7 @@
         ],
         "enabled" : true,
         "minimumAppVersion" : "1.0",
-        "sortOrder" : 3
+        "sortOrder" : 6
       },
       "titleLocalizationKey" : {
         "de" : "Husky",
@@ -116,7 +116,7 @@
         ],
         "enabled" : true,
         "minimumAppVersion" : "1.0",
-        "sortOrder" : 4
+        "sortOrder" : 3
       },
       "titleLocalizationKey" : {
         "de" : "Gans",
@@ -255,7 +255,7 @@
         ],
         "enabled" : true,
         "minimumAppVersion" : "1.0",
-        "sortOrder" : 5
+        "sortOrder" : 4
       },
       "titleLocalizationKey" : {
         "de" : "Papagei",
