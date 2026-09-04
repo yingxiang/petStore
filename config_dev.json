@@ -29,6 +29,7 @@
           "corgi"
         ],
         "enabled" : true,
+        "storeKitProductID" : "com.lingchen.pet.corgi",
         "minimumAppVersion" : "1.0",
         "sortOrder" : 1
       },
@@ -115,6 +116,7 @@
           "goose"
         ],
         "enabled" : true,
+        "storeKitProductID" : "com.lingchen.pet.goose",
         "minimumAppVersion" : "1.0",
         "sortOrder" : 3
       },
@@ -160,6 +162,7 @@
           "hen"
         ],
         "enabled" : true,
+        "storeKitProductID" : "com.lingchen.pet.hen",
         "minimumAppVersion" : "1.0",
         "sortOrder" : 2
       },
@@ -206,6 +209,7 @@
           "orange-cat"
         ],
         "enabled" : true,
+        "storeKitProductID" : "com.lingchen.pet.orangecat",
         "minimumAppVersion" : "1.0",
         "sortOrder" : 0
       },
@@ -254,6 +258,7 @@
           "parrot"
         ],
         "enabled" : true,
+        "storeKitProductID" : "com.lingchen.pet.parrot",
         "minimumAppVersion" : "1.0",
         "sortOrder" : 4
       },
