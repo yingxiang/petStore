@@ -98,7 +98,10 @@
         "zh-Hant" : "一隻神氣又可愛的小白鵝。"
       },
       "fileAddress" : {
-
+        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/idle-20260904T012323Z.petpkg",
+        "idle-loopup" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/idle-loopup-20260904T012323Z.petpkg",
+        "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/run-left-20260904T012323Z.petpkg",
+        "run-right" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/run-right-20260904T012323Z.petpkg"
       },
       "imageSizing" : {
         "catContentLeftInsetRatio" : 0.375,
@@ -107,7 +110,6 @@
         "stepDistanceImageWidthRatio" : 0.125
       },
       "movementSpeedMultiplier" : 1.2,
-      "preview" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/previews/goose/preview-20260810T130638Z.webp",
       "store" : {
         "compatiblePetFamilies" : [
           "goose"
@@ -126,7 +128,7 @@
         "zh-Hans" : "小白鹅",
         "zh-Hant" : "小白鵝"
       },
-      "version" : 1
+      "version" : 2
     },
     "hen" : {
       "descriptionLocalizationKey" : {
@@ -231,7 +233,14 @@
         "zh-Hant" : "一隻聰明又活潑的小鸚鵡。"
       },
       "fileAddress" : {
-
+        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-20260904T012323Z.petpkg",
+        "idle-curiosity" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-curiosity-20260904T012323Z.petpkg",
+        "idle-happy" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-happy-20260904T012323Z.petpkg",
+        "idle-look" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-look-20260904T012323Z.petpkg",
+        "idle-sleep" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-sleep-20260904T012323Z.petpkg",
+        "idle-speak" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-speak-20260904T012323Z.petpkg",
+        "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/run-left-20260904T012323Z.petpkg",
+        "run-right" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/run-right-20260904T012323Z.petpkg"
       },
       "imageSizing" : {
         "catContentLeftInsetRatio" : 0.375,
@@ -240,7 +249,6 @@
         "stepDistanceImageWidthRatio" : 0.125
       },
       "movementSpeedMultiplier" : 1.2,
-      "preview" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/previews/parrot/preview.webp",
       "store" : {
         "compatiblePetFamilies" : [
           "parrot"
@@ -263,5 +271,5 @@
     }
   },
   "schemaVersion" : 2,
-  "updatedAt" : "2026-08-15T02:19:10Z"
+  "updatedAt" : "2026-09-04T01:23:23Z"
 }
