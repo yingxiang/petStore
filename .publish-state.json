@@ -44,14 +44,28 @@
     },
     "goose" : {
       "actions" : {
-
+        "idle" : {
+          "currentFile" : "packages/goose/idle-20260904T012323Z.petpkg",
+          "sourceHash" : "815f26729d1bef35abf343873a0e15b5515e8dff7e2c2a435df16f1079b4667f",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/idle-20260904T012323Z.petpkg"
+        },
+        "idle-loopup" : {
+          "currentFile" : "packages/goose/idle-loopup-20260904T012323Z.petpkg",
+          "sourceHash" : "fd5d936b94c2966973b82fe6f747e19766aa25e64bc2da1657e4036cce2b9a51",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/idle-loopup-20260904T012323Z.petpkg"
+        },
+        "run-left" : {
+          "currentFile" : "packages/goose/run-left-20260904T012323Z.petpkg",
+          "sourceHash" : "120d0d0183fa02854995c5b14ce9b7a909ec9ae346827965907592fee5ebf9bd",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/run-left-20260904T012323Z.petpkg"
+        },
+        "run-right" : {
+          "currentFile" : "packages/goose/run-right-20260904T012323Z.petpkg",
+          "sourceHash" : "aa3d58134c3afdd6fa93af84414b391b918878937e5bc1e838fa4902e956567c",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/run-right-20260904T012323Z.petpkg"
+        }
       },
-      "preview" : {
-        "currentFile" : "previews/goose/preview-20260810T130638Z.webp",
-        "sourceHash" : "a2d8b871927e21a391f8e035786d515529825aa2996d4523a9495d45bd57c18a",
-        "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/previews/goose/preview-20260810T130638Z.webp"
-      },
-      "version" : 1
+      "version" : 2
     },
     "hen" : {
       "actions" : {
@@ -122,6 +136,51 @@
         }
       },
       "version" : 4
+    },
+    "parrot" : {
+      "actions" : {
+        "idle" : {
+          "currentFile" : "packages/parrot/idle-20260904T012323Z.petpkg",
+          "sourceHash" : "85b119d41730c9a5673f6a8dfc5142df2cfbe8013e81ab6c28825acd26697322",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-20260904T012323Z.petpkg"
+        },
+        "idle-curiosity" : {
+          "currentFile" : "packages/parrot/idle-curiosity-20260904T012323Z.petpkg",
+          "sourceHash" : "cd314477831ce4d2720075b0dcc877e775ecc0559d1d33167e5d693e843f35d5",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-curiosity-20260904T012323Z.petpkg"
+        },
+        "idle-happy" : {
+          "currentFile" : "packages/parrot/idle-happy-20260904T012323Z.petpkg",
+          "sourceHash" : "8a9c1a769cb01aac64471bec4a47e78778e70c70b0b3b5b3ecb79c337afc73ef",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-happy-20260904T012323Z.petpkg"
+        },
+        "idle-look" : {
+          "currentFile" : "packages/parrot/idle-look-20260904T012323Z.petpkg",
+          "sourceHash" : "d42267c9fba09d506fe39a5da9a815ed945fcf8dbb6f2497b21ddc0ad5433de9",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-look-20260904T012323Z.petpkg"
+        },
+        "idle-sleep" : {
+          "currentFile" : "packages/parrot/idle-sleep-20260904T012323Z.petpkg",
+          "sourceHash" : "bddc7971d5e242f829a8c8312aff3144c9f551bac0bd8ad0f37ee98fe0ad50f7",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-sleep-20260904T012323Z.petpkg"
+        },
+        "idle-speak" : {
+          "currentFile" : "packages/parrot/idle-speak-20260904T012323Z.petpkg",
+          "sourceHash" : "517106e250df835b0ae017f546488df7b6ad6fa14e93034004544ce4d55c92ee",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-speak-20260904T012323Z.petpkg"
+        },
+        "run-left" : {
+          "currentFile" : "packages/parrot/run-left-20260904T012323Z.petpkg",
+          "sourceHash" : "9c18f6d2f25714d1bab8594b82e31422a8c03f53afc548e2cdcc97a0df92cb0b",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/run-left-20260904T012323Z.petpkg"
+        },
+        "run-right" : {
+          "currentFile" : "packages/parrot/run-right-20260904T012323Z.petpkg",
+          "sourceHash" : "134ec65efff9d81f5658a5a1ad84f58f3fa7576f064f11695ac7948b45f80f1e",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/run-right-20260904T012323Z.petpkg"
+        }
+      },
+      "version" : 1
     }
   }
 }

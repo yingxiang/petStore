@@ -12,7 +12,6 @@
         "zh-Hant" : "一隻活潑親人的小柯基。"
       },
       "fileAddress" : {
-        "drag" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/drag-20260810T071108Z.petpkg",
         "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/idle-20260810T071108Z.petpkg",
         "idle-sleep" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/idle-sleep-20260810T104758Z.petpkg",
         "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/run-left-20260810T071108Z.petpkg",
@@ -99,7 +98,10 @@
         "zh-Hant" : "一隻神氣又可愛的小白鵝。"
       },
       "fileAddress" : {
-
+        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/idle-20260904T012323Z.petpkg",
+        "idle-loopup" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/idle-loopup-20260904T012323Z.petpkg",
+        "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/run-left-20260904T012323Z.petpkg",
+        "run-right" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/run-right-20260904T012323Z.petpkg"
       },
       "imageSizing" : {
         "catContentLeftInsetRatio" : 0.375,
@@ -108,7 +110,6 @@
         "stepDistanceImageWidthRatio" : 0.125
       },
       "movementSpeedMultiplier" : 1.2,
-      "preview" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/previews/goose/preview-20260810T130638Z.webp",
       "store" : {
         "compatiblePetFamilies" : [
           "goose"
@@ -127,7 +128,7 @@
         "zh-Hans" : "小白鹅",
         "zh-Hant" : "小白鵝"
       },
-      "version" : 1
+      "version" : 2
     },
     "hen" : {
       "descriptionLocalizationKey" : {
@@ -187,7 +188,6 @@
       },
       "fileAddress" : {
         "climb" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/climb-20260810T071108Z.petpkg",
-        "drag" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/drag-20260810T071108Z.petpkg",
         "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/idle-20260810T071108Z.petpkg",
         "idle-play" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/idle-play-20260810T071108Z.petpkg",
         "idle-sleep" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/idle-sleep-20260810T071108Z.petpkg",
@@ -220,8 +220,56 @@
         "zh-Hant" : "橘貓"
       },
       "version" : 4
+    },
+    "parrot" : {
+      "descriptionLocalizationKey" : {
+        "de" : "Ein kluger und lebhafter kleiner Papagei.",
+        "en" : "A clever and lively little parrot.",
+        "fr" : "Un petit perroquet intelligent et plein de vie.",
+        "it" : "Un piccolo pappagallo intelligente e vivace.",
+        "ja" : "賢くて元気な小さなオウム。",
+        "ko" : "영리하고 활기찬 작은 앵무새.",
+        "zh-Hans" : "一只聪明又活泼的小鹦鹉。",
+        "zh-Hant" : "一隻聰明又活潑的小鸚鵡。"
+      },
+      "fileAddress" : {
+        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-20260904T012323Z.petpkg",
+        "idle-curiosity" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-curiosity-20260904T012323Z.petpkg",
+        "idle-happy" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-happy-20260904T012323Z.petpkg",
+        "idle-look" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-look-20260904T012323Z.petpkg",
+        "idle-sleep" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-sleep-20260904T012323Z.petpkg",
+        "idle-speak" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-speak-20260904T012323Z.petpkg",
+        "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/run-left-20260904T012323Z.petpkg",
+        "run-right" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/run-right-20260904T012323Z.petpkg"
+      },
+      "imageSizing" : {
+        "catContentLeftInsetRatio" : 0.375,
+        "catContentWidthRatio" : 0.25,
+        "framesPerStep" : 1,
+        "stepDistanceImageWidthRatio" : 0.125
+      },
+      "movementSpeedMultiplier" : 1.2,
+      "store" : {
+        "compatiblePetFamilies" : [
+          "parrot"
+        ],
+        "enabled" : true,
+        "minimumAppVersion" : "1.0",
+        "sortOrder" : 5
+      },
+      "titleLocalizationKey" : {
+        "de" : "Papagei",
+        "en" : "Parrot",
+        "fr" : "Perroquet",
+        "it" : "Pappagallo",
+        "ja" : "オウム",
+        "ko" : "앵무새",
+        "zh-Hans" : "小鹦鹉",
+        "zh-Hant" : "小鸚鵡"
+      },
+      "version" : 1
     }
   },
   "schemaVersion" : 2,
-  "updatedAt" : "2026-08-10T13:06:40Z"
+  "updatedAt" : "2026-09-04T01:23:23Z"
 }
