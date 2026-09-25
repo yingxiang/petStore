@@ -8,14 +8,15 @@
         "it" : "Un piccolo corgi allegro e affettuoso.",
         "ja" : "元気で人懐っこい小さなコーギー。",
         "ko" : "활기차고 다정한 작은 코기.",
+        "ru" : "Весёлый и ласковый маленький корги.",
         "zh-Hans" : "一只活泼亲人的小柯基。",
         "zh-Hant" : "一隻活潑親人的小柯基。"
       },
       "fileAddress" : {
-        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/idle-20260810T071108Z.petpkg",
-        "idle-sleep" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/idle-sleep-20260810T104758Z.petpkg",
-        "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/run-left-20260810T071108Z.petpkg",
-        "run-right" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/run-right-20260810T071108Z.petpkg"
+        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/idle-20260925T150144Z.petpkg",
+        "idle-sleep" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/idle-sleep-20260925T150144Z.petpkg",
+        "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/run-left-20260925T150144Z.petpkg",
+        "run-right" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/run-right-20260925T150144Z.petpkg"
       },
       "imageSizing" : {
         "catContentLeftInsetRatio" : 0.375,
@@ -29,9 +30,9 @@
           "corgi"
         ],
         "enabled" : true,
-        "storeKitProductID" : "com.lingchen.pet.corgi",
         "minimumAppVersion" : "1.0",
-        "sortOrder" : 1
+        "sortOrder" : 1,
+        "storeKitProductID" : "com.lingchen.pet.corgi"
       },
       "titleLocalizationKey" : {
         "de" : "Corgi",
@@ -40,10 +41,11 @@
         "it" : "Corgi",
         "ja" : "コーギー",
         "ko" : "코기",
+        "ru" : "Корги",
         "zh-Hans" : "柯基",
         "zh-Hant" : "柯基"
       },
-      "version" : 4
+      "version" : 5
     },
     "Husky" : {
       "descriptionLocalizationKey" : {
@@ -53,6 +55,7 @@
         "it" : "Un piccolo husky giocoso e curioso.",
         "ja" : "元気で好奇心旺盛な小さなハスキー。",
         "ko" : "활발하고 호기심 많은 작은 허스키.",
+        "ru" : "Игривый и любопытный маленький хаски.",
         "zh-Hans" : "一只活泼又好奇的小哈士奇。",
         "zh-Hant" : "一隻活潑又好奇的小哈士奇。"
       },
@@ -73,7 +76,8 @@
         ],
         "enabled" : true,
         "minimumAppVersion" : "1.0",
-        "sortOrder" : 6
+        "sortOrder" : 6,
+        "storeKitProductID" : "com.lingchen.pet.husky"
       },
       "titleLocalizationKey" : {
         "de" : "Husky",
@@ -82,6 +86,7 @@
         "it" : "Husky",
         "ja" : "ハスキー",
         "ko" : "허스키",
+        "ru" : "Хаски",
         "zh-Hans" : "哈士奇",
         "zh-Hant" : "哈士奇"
       },
@@ -95,14 +100,15 @@
         "it" : "Una piccola oca fiera e adorabile.",
         "ja" : "元気でかわいい小さなガチョウ。",
         "ko" : "당당하고 귀여운 작은 거위.",
+        "ru" : "Гордый и очаровательный маленький гусь.",
         "zh-Hans" : "一只神气又可爱的小白鹅。",
         "zh-Hant" : "一隻神氣又可愛的小白鵝。"
       },
       "fileAddress" : {
-        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/idle-20260904T012323Z.petpkg",
-        "idle-loopup" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/idle-loopup-20260904T012323Z.petpkg",
-        "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/run-left-20260904T012323Z.petpkg",
-        "run-right" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/run-right-20260904T012323Z.petpkg"
+        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/idle-20260925T150144Z.petpkg",
+        "idle-loopup" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/idle-loopup-20260925T150144Z.petpkg",
+        "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/run-left-20260925T150144Z.petpkg",
+        "run-right" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/run-right-20260925T150144Z.petpkg"
       },
       "imageSizing" : {
         "catContentLeftInsetRatio" : 0.375,
@@ -116,9 +122,9 @@
           "goose"
         ],
         "enabled" : true,
-        "storeKitProductID" : "com.lingchen.pet.goose",
         "minimumAppVersion" : "1.0",
-        "sortOrder" : 3
+        "sortOrder" : 3,
+        "storeKitProductID" : "com.lingchen.pet.goose"
       },
       "titleLocalizationKey" : {
         "de" : "Gans",
@@ -127,10 +133,11 @@
         "it" : "Oca",
         "ja" : "ガチョウ",
         "ko" : "거위",
+        "ru" : "Гусь",
         "zh-Hans" : "小白鹅",
         "zh-Hant" : "小白鵝"
       },
-      "version" : 2
+      "version" : 3
     },
     "hen" : {
       "descriptionLocalizationKey" : {
@@ -140,15 +147,16 @@
         "it" : "Una vivace gallinella che corre sul desktop.",
         "ja" : "デスクトップを元気に駆け回る小さなめんどり。",
         "ko" : "데스크톱을 힘차게 뛰어다니는 작은 암탉.",
+        "ru" : "Шустрая маленькая курочка бегает по рабочему столу.",
         "zh-Hans" : "一只在桌面上活泼奔跑的小母鸡。",
         "zh-Hant" : "一隻在桌面上活潑奔跑的小母雞。"
       },
       "fileAddress" : {
-        "climb" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/climb-20260810T071108Z.petpkg",
-        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/idle-20260810T071108Z.petpkg",
-        "idle-sleep" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/idle-sleep-20260810T071108Z.petpkg",
-        "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/run-left-20260810T071108Z.petpkg",
-        "run-right" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/run-right-20260810T071108Z.petpkg"
+        "climb" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/climb-20260925T150144Z.petpkg",
+        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/idle-20260925T150144Z.petpkg",
+        "idle-sleep" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/idle-sleep-20260925T150144Z.petpkg",
+        "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/run-left-20260925T150144Z.petpkg",
+        "run-right" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/run-right-20260925T150144Z.petpkg"
       },
       "imageSizing" : {
         "catContentLeftInsetRatio" : 0.375,
@@ -162,9 +170,9 @@
           "hen"
         ],
         "enabled" : true,
-        "storeKitProductID" : "com.lingchen.pet.hen",
         "minimumAppVersion" : "1.0",
-        "sortOrder" : 2
+        "sortOrder" : 2,
+        "storeKitProductID" : "com.lingchen.pet.hen"
       },
       "titleLocalizationKey" : {
         "de" : "Henne",
@@ -173,10 +181,11 @@
         "it" : "Gallina",
         "ja" : "めんどり",
         "ko" : "암탉",
+        "ru" : "Курица",
         "zh-Hans" : "小母鸡",
         "zh-Hant" : "小母雞"
       },
-      "version" : 4
+      "version" : 5
     },
     "orange-cat" : {
       "descriptionLocalizationKey" : {
@@ -186,16 +195,17 @@
         "it" : "Un curioso gatto arancione che resta vicino alle finestre.",
         "ja" : "ウインドウのそばにいる好奇心旺盛な茶トラ猫。",
         "ko" : "창가를 좋아하는 호기심 많은 치즈 고양이.",
+        "ru" : "Любопытный рыжий кот любит сидеть у окон.",
         "zh-Hans" : "一只喜欢守在窗口边的好奇橘猫。",
         "zh-Hant" : "一隻喜歡守在視窗邊的好奇橘貓。"
       },
       "fileAddress" : {
-        "climb" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/climb-20260810T071108Z.petpkg",
-        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/idle-20260810T071108Z.petpkg",
-        "idle-play" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/idle-play-20260810T071108Z.petpkg",
-        "idle-sleep" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/idle-sleep-20260810T071108Z.petpkg",
-        "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/run-left-20260810T071108Z.petpkg",
-        "run-right" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/run-right-20260810T071108Z.petpkg"
+        "climb" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/climb-20260925T150144Z.petpkg",
+        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/idle-20260925T150144Z.petpkg",
+        "idle-play" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/idle-play-20260925T150144Z.petpkg",
+        "idle-sleep" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/idle-sleep-20260925T150144Z.petpkg",
+        "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/run-left-20260925T150144Z.petpkg",
+        "run-right" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/run-right-20260925T150144Z.petpkg"
       },
       "imageSizing" : {
         "catContentLeftInsetRatio" : 0.375,
@@ -209,9 +219,9 @@
           "orange-cat"
         ],
         "enabled" : true,
-        "storeKitProductID" : "com.lingchen.pet.orangecat",
         "minimumAppVersion" : "1.0",
-        "sortOrder" : 0
+        "sortOrder" : 0,
+        "storeKitProductID" : "com.lingchen.pet.orangecat"
       },
       "titleLocalizationKey" : {
         "de" : "Orangefarbene Katze",
@@ -220,10 +230,11 @@
         "it" : "Gatto arancione",
         "ja" : "茶トラ猫",
         "ko" : "치즈 고양이",
+        "ru" : "Рыжий кот",
         "zh-Hans" : "橘猫",
         "zh-Hant" : "橘貓"
       },
-      "version" : 4
+      "version" : 5
     },
     "parrot" : {
       "descriptionLocalizationKey" : {
@@ -233,18 +244,19 @@
         "it" : "Un piccolo pappagallo intelligente e vivace.",
         "ja" : "賢くて元気な小さなオウム。",
         "ko" : "영리하고 활기찬 작은 앵무새.",
+        "ru" : "Умный и энергичный маленький попугай.",
         "zh-Hans" : "一只聪明又活泼的小鹦鹉。",
         "zh-Hant" : "一隻聰明又活潑的小鸚鵡。"
       },
       "fileAddress" : {
-        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-20260904T012323Z.petpkg",
-        "idle-curiosity" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-curiosity-20260904T012323Z.petpkg",
-        "idle-happy" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-happy-20260904T012323Z.petpkg",
-        "idle-look" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-look-20260904T012323Z.petpkg",
-        "idle-sleep" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-sleep-20260904T012323Z.petpkg",
-        "idle-speak" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-speak-20260904T012323Z.petpkg",
-        "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/run-left-20260904T012323Z.petpkg",
-        "run-right" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/run-right-20260904T012323Z.petpkg"
+        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-20260925T150144Z.petpkg",
+        "idle-curiosity" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-curiosity-20260925T150144Z.petpkg",
+        "idle-happy" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-happy-20260925T150144Z.petpkg",
+        "idle-look" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-look-20260925T150144Z.petpkg",
+        "idle-sleep" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-sleep-20260925T150144Z.petpkg",
+        "idle-speak" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-speak-20260925T150144Z.petpkg",
+        "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/run-left-20260925T150144Z.petpkg",
+        "run-right" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/run-right-20260925T150144Z.petpkg"
       },
       "imageSizing" : {
         "catContentLeftInsetRatio" : 0.375,
@@ -258,9 +270,9 @@
           "parrot"
         ],
         "enabled" : true,
-        "storeKitProductID" : "com.lingchen.pet.parrot",
         "minimumAppVersion" : "1.0",
-        "sortOrder" : 4
+        "sortOrder" : 4,
+        "storeKitProductID" : "com.lingchen.pet.parrot"
       },
       "titleLocalizationKey" : {
         "de" : "Papagei",
@@ -269,12 +281,13 @@
         "it" : "Pappagallo",
         "ja" : "オウム",
         "ko" : "앵무새",
+        "ru" : "Попугай",
         "zh-Hans" : "小鹦鹉",
         "zh-Hant" : "小鸚鵡"
       },
-      "version" : 1
+      "version" : 2
     }
   },
   "schemaVersion" : 2,
-  "updatedAt" : "2026-09-04T01:23:23Z"
+  "updatedAt" : "2026-09-25T15:01:44Z"
 }
