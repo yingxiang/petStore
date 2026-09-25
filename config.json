@@ -13,10 +13,10 @@
         "zh-Hant" : "一隻活潑親人的小柯基。"
       },
       "fileAddress" : {
-        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/idle-20260925T150144Z.petpkg",
-        "idle-sleep" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/idle-sleep-20260925T150144Z.petpkg",
-        "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/run-left-20260925T150144Z.petpkg",
-        "run-right" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/run-right-20260925T150144Z.petpkg"
+        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/idle-20260925T150657Z.petpkg",
+        "idle-sleep" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/idle-sleep-20260925T150657Z.petpkg",
+        "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/run-left-20260925T150657Z.petpkg",
+        "run-right" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/run-right-20260925T150657Z.petpkg"
       },
       "imageSizing" : {
         "catContentLeftInsetRatio" : 0.375,
@@ -45,7 +45,7 @@
         "zh-Hans" : "柯基",
         "zh-Hant" : "柯基"
       },
-      "version" : 5
+      "version" : 6
     },
     "Husky" : {
       "descriptionLocalizationKey" : {
@@ -60,7 +60,13 @@
         "zh-Hant" : "一隻活潑又好奇的小哈士奇。"
       },
       "fileAddress" : {
-
+        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Husky/idle-20260925T150657Z.petpkg",
+        "idle-bone" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Husky/idle-bone-20260925T150657Z.petpkg",
+        "idle-roll" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Husky/idle-roll-20260925T150657Z.petpkg",
+        "idle-sleep" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Husky/idle-sleep-20260925T150657Z.petpkg",
+        "idle-spin" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Husky/idle-spin-20260925T150657Z.petpkg",
+        "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Husky/run-left-20260925T150657Z.petpkg",
+        "run-right" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Husky/run-right-20260925T150657Z.petpkg"
       },
       "imageSizing" : {
         "catContentLeftInsetRatio" : 0.375,
@@ -69,7 +75,6 @@
         "stepDistanceImageWidthRatio" : 0.125
       },
       "movementSpeedMultiplier" : 1.2,
-      "preview" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/previews/Husky/preview-20260810T130638Z.webp",
       "store" : {
         "compatiblePetFamilies" : [
           "husky"
@@ -90,7 +95,7 @@
         "zh-Hans" : "哈士奇",
         "zh-Hant" : "哈士奇"
       },
-      "version" : 1
+      "version" : 2
     },
     "goose" : {
       "descriptionLocalizationKey" : {
@@ -105,10 +110,10 @@
         "zh-Hant" : "一隻神氣又可愛的小白鵝。"
       },
       "fileAddress" : {
-        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/idle-20260925T150144Z.petpkg",
-        "idle-loopup" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/idle-loopup-20260925T150144Z.petpkg",
-        "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/run-left-20260925T150144Z.petpkg",
-        "run-right" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/run-right-20260925T150144Z.petpkg"
+        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/idle-20260925T150657Z.petpkg",
+        "idle-loopup" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/idle-loopup-20260925T150657Z.petpkg",
+        "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/run-left-20260925T150657Z.petpkg",
+        "run-right" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/run-right-20260925T150657Z.petpkg"
       },
       "imageSizing" : {
         "catContentLeftInsetRatio" : 0.375,
@@ -137,7 +142,7 @@
         "zh-Hans" : "小白鹅",
         "zh-Hant" : "小白鵝"
       },
-      "version" : 3
+      "version" : 4
     },
     "hen" : {
       "descriptionLocalizationKey" : {
@@ -152,11 +157,11 @@
         "zh-Hant" : "一隻在桌面上活潑奔跑的小母雞。"
       },
       "fileAddress" : {
-        "climb" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/climb-20260925T150144Z.petpkg",
-        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/idle-20260925T150144Z.petpkg",
-        "idle-sleep" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/idle-sleep-20260925T150144Z.petpkg",
-        "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/run-left-20260925T150144Z.petpkg",
-        "run-right" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/run-right-20260925T150144Z.petpkg"
+        "climb" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/climb-20260925T150657Z.petpkg",
+        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/idle-20260925T150657Z.petpkg",
+        "idle-sleep" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/idle-sleep-20260925T150657Z.petpkg",
+        "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/run-left-20260925T150657Z.petpkg",
+        "run-right" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/run-right-20260925T150657Z.petpkg"
       },
       "imageSizing" : {
         "catContentLeftInsetRatio" : 0.375,
@@ -185,7 +190,7 @@
         "zh-Hans" : "小母鸡",
         "zh-Hant" : "小母雞"
       },
-      "version" : 5
+      "version" : 6
     },
     "orange-cat" : {
       "descriptionLocalizationKey" : {
@@ -200,12 +205,12 @@
         "zh-Hant" : "一隻喜歡守在視窗邊的好奇橘貓。"
       },
       "fileAddress" : {
-        "climb" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/climb-20260925T150144Z.petpkg",
-        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/idle-20260925T150144Z.petpkg",
-        "idle-play" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/idle-play-20260925T150144Z.petpkg",
-        "idle-sleep" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/idle-sleep-20260925T150144Z.petpkg",
-        "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/run-left-20260925T150144Z.petpkg",
-        "run-right" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/run-right-20260925T150144Z.petpkg"
+        "climb" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/climb-20260925T150657Z.petpkg",
+        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/idle-20260925T150657Z.petpkg",
+        "idle-play" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/idle-play-20260925T150657Z.petpkg",
+        "idle-sleep" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/idle-sleep-20260925T150657Z.petpkg",
+        "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/run-left-20260925T150657Z.petpkg",
+        "run-right" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/run-right-20260925T150657Z.petpkg"
       },
       "imageSizing" : {
         "catContentLeftInsetRatio" : 0.375,
@@ -234,7 +239,7 @@
         "zh-Hans" : "橘猫",
         "zh-Hant" : "橘貓"
       },
-      "version" : 5
+      "version" : 6
     },
     "parrot" : {
       "descriptionLocalizationKey" : {
@@ -249,14 +254,14 @@
         "zh-Hant" : "一隻聰明又活潑的小鸚鵡。"
       },
       "fileAddress" : {
-        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-20260925T150144Z.petpkg",
-        "idle-curiosity" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-curiosity-20260925T150144Z.petpkg",
-        "idle-happy" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-happy-20260925T150144Z.petpkg",
-        "idle-look" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-look-20260925T150144Z.petpkg",
-        "idle-sleep" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-sleep-20260925T150144Z.petpkg",
-        "idle-speak" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-speak-20260925T150144Z.petpkg",
-        "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/run-left-20260925T150144Z.petpkg",
-        "run-right" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/run-right-20260925T150144Z.petpkg"
+        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-20260925T150657Z.petpkg",
+        "idle-curiosity" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-curiosity-20260925T150657Z.petpkg",
+        "idle-happy" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-happy-20260925T150657Z.petpkg",
+        "idle-look" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-look-20260925T150657Z.petpkg",
+        "idle-sleep" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-sleep-20260925T150657Z.petpkg",
+        "idle-speak" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-speak-20260925T150657Z.petpkg",
+        "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/run-left-20260925T150657Z.petpkg",
+        "run-right" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/run-right-20260925T150657Z.petpkg"
       },
       "imageSizing" : {
         "catContentLeftInsetRatio" : 0.375,
@@ -285,9 +290,9 @@
         "zh-Hans" : "小鹦鹉",
         "zh-Hant" : "小鸚鵡"
       },
-      "version" : 2
+      "version" : 3
     }
   },
   "schemaVersion" : 2,
-  "updatedAt" : "2026-09-25T15:01:44Z"
+  "updatedAt" : "2026-09-25T15:06:58Z"
 }

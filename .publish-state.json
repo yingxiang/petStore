@@ -8,114 +8,143 @@
           "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/drag-20260810T071108Z.petpkg"
         },
         "idle" : {
-          "currentFile" : "packages/Corgi/idle-20260925T150144Z.petpkg",
-          "previousFile" : "packages/Corgi/idle-20260810T071108Z.petpkg",
+          "currentFile" : "packages/Corgi/idle-20260925T150657Z.petpkg",
+          "previousFile" : "packages/Corgi/idle-20260925T150144Z.petpkg",
           "sourceHash" : "4b43df42772da2b6b1b5c583d579d947d1c880afee27fabd6ed1b8bb6b5e2032",
-          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/idle-20260925T150144Z.petpkg"
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/idle-20260925T150657Z.petpkg"
         },
         "idle-sleep" : {
-          "currentFile" : "packages/Corgi/idle-sleep-20260925T150144Z.petpkg",
-          "previousFile" : "packages/Corgi/idle-sleep-20260810T104758Z.petpkg",
+          "currentFile" : "packages/Corgi/idle-sleep-20260925T150657Z.petpkg",
+          "previousFile" : "packages/Corgi/idle-sleep-20260925T150144Z.petpkg",
           "sourceHash" : "cc90ac4b4d2b077aba180d15b299c893d412b49b90d79fb0223c5d1a0ba26192",
-          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/idle-sleep-20260925T150144Z.petpkg"
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/idle-sleep-20260925T150657Z.petpkg"
         },
         "run-left" : {
-          "currentFile" : "packages/Corgi/run-left-20260925T150144Z.petpkg",
-          "previousFile" : "packages/Corgi/run-left-20260810T071108Z.petpkg",
+          "currentFile" : "packages/Corgi/run-left-20260925T150657Z.petpkg",
+          "previousFile" : "packages/Corgi/run-left-20260925T150144Z.petpkg",
           "sourceHash" : "c56232dc7befa9ccec2d116438cd1f24bd1d43cc5c714faa53bb8498be6083ae",
-          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/run-left-20260925T150144Z.petpkg"
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/run-left-20260925T150657Z.petpkg"
         },
         "run-right" : {
-          "currentFile" : "packages/Corgi/run-right-20260925T150144Z.petpkg",
-          "previousFile" : "packages/Corgi/run-right-20260810T071108Z.petpkg",
+          "currentFile" : "packages/Corgi/run-right-20260925T150657Z.petpkg",
+          "previousFile" : "packages/Corgi/run-right-20260925T150144Z.petpkg",
           "sourceHash" : "4608c056382ef0bd675bb02b7fc433b475a67dc24d5796200b7add3f6089f072",
-          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/run-right-20260925T150144Z.petpkg"
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Corgi/run-right-20260925T150657Z.petpkg"
         }
       },
-      "version" : 5
+      "version" : 6
     },
     "Husky" : {
       "actions" : {
-
+        "idle" : {
+          "currentFile" : "packages/Husky/idle-20260925T150657Z.petpkg",
+          "sourceHash" : "8e1dd81c63c30993c89170e1a8fbae09c23476a4b0881f0f93b87bf31ef95a98",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Husky/idle-20260925T150657Z.petpkg"
+        },
+        "idle-bone" : {
+          "currentFile" : "packages/Husky/idle-bone-20260925T150657Z.petpkg",
+          "sourceHash" : "5c54e55969a53c14e4a57dddb9a6d99c5c53f345f1b632a554e5122f5b0b8c08",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Husky/idle-bone-20260925T150657Z.petpkg"
+        },
+        "idle-roll" : {
+          "currentFile" : "packages/Husky/idle-roll-20260925T150657Z.petpkg",
+          "sourceHash" : "86ef0ff6deda0f4fcdd6dfba6653aa4fd7423979922971013dd4d2d2e38d0fa7",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Husky/idle-roll-20260925T150657Z.petpkg"
+        },
+        "idle-sleep" : {
+          "currentFile" : "packages/Husky/idle-sleep-20260925T150657Z.petpkg",
+          "sourceHash" : "b434f48cfa326180b5850c99605cc640738128f18015db726ac63816e2262f6f",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Husky/idle-sleep-20260925T150657Z.petpkg"
+        },
+        "idle-spin" : {
+          "currentFile" : "packages/Husky/idle-spin-20260925T150657Z.petpkg",
+          "sourceHash" : "9cf97e5e8b4f861df6d58981b711ddca9d3e30ab73f63227458531fa1e064921",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Husky/idle-spin-20260925T150657Z.petpkg"
+        },
+        "run-left" : {
+          "currentFile" : "packages/Husky/run-left-20260925T150657Z.petpkg",
+          "sourceHash" : "1f7eca5a7af13c350d6be5de42eb7b1bf90a6a53a42ecaba1912388f36e6ff0d",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Husky/run-left-20260925T150657Z.petpkg"
+        },
+        "run-right" : {
+          "currentFile" : "packages/Husky/run-right-20260925T150657Z.petpkg",
+          "sourceHash" : "77be1777d26acc10af9db5cbd7f1c93f9c092e01ef1acf669b6f7ec183afccc4",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Husky/run-right-20260925T150657Z.petpkg"
+        }
       },
-      "preview" : {
-        "currentFile" : "previews/Husky/preview-20260810T130638Z.webp",
-        "sourceHash" : "46a2f8efbe69483120d9ca8b7ee2e7b962e4a1d508eb71d65aa41f6f14f6dc70",
-        "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/previews/Husky/preview-20260810T130638Z.webp"
-      },
-      "version" : 1
+      "version" : 2
     },
     "goose" : {
       "actions" : {
         "idle" : {
-          "currentFile" : "packages/goose/idle-20260925T150144Z.petpkg",
-          "previousFile" : "packages/goose/idle-20260904T012323Z.petpkg",
+          "currentFile" : "packages/goose/idle-20260925T150657Z.petpkg",
+          "previousFile" : "packages/goose/idle-20260925T150144Z.petpkg",
           "sourceHash" : "815f26729d1bef35abf343873a0e15b5515e8dff7e2c2a435df16f1079b4667f",
-          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/idle-20260925T150144Z.petpkg"
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/idle-20260925T150657Z.petpkg"
         },
         "idle-loopup" : {
-          "currentFile" : "packages/goose/idle-loopup-20260925T150144Z.petpkg",
-          "previousFile" : "packages/goose/idle-loopup-20260904T012323Z.petpkg",
+          "currentFile" : "packages/goose/idle-loopup-20260925T150657Z.petpkg",
+          "previousFile" : "packages/goose/idle-loopup-20260925T150144Z.petpkg",
           "sourceHash" : "fd5d936b94c2966973b82fe6f747e19766aa25e64bc2da1657e4036cce2b9a51",
-          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/idle-loopup-20260925T150144Z.petpkg"
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/idle-loopup-20260925T150657Z.petpkg"
         },
         "run-left" : {
-          "currentFile" : "packages/goose/run-left-20260925T150144Z.petpkg",
-          "previousFile" : "packages/goose/run-left-20260904T012323Z.petpkg",
+          "currentFile" : "packages/goose/run-left-20260925T150657Z.petpkg",
+          "previousFile" : "packages/goose/run-left-20260925T150144Z.petpkg",
           "sourceHash" : "120d0d0183fa02854995c5b14ce9b7a909ec9ae346827965907592fee5ebf9bd",
-          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/run-left-20260925T150144Z.petpkg"
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/run-left-20260925T150657Z.petpkg"
         },
         "run-right" : {
-          "currentFile" : "packages/goose/run-right-20260925T150144Z.petpkg",
-          "previousFile" : "packages/goose/run-right-20260904T012323Z.petpkg",
+          "currentFile" : "packages/goose/run-right-20260925T150657Z.petpkg",
+          "previousFile" : "packages/goose/run-right-20260925T150144Z.petpkg",
           "sourceHash" : "aa3d58134c3afdd6fa93af84414b391b918878937e5bc1e838fa4902e956567c",
-          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/run-right-20260925T150144Z.petpkg"
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/goose/run-right-20260925T150657Z.petpkg"
         }
       },
-      "version" : 3
+      "version" : 4
     },
     "hen" : {
       "actions" : {
         "climb" : {
-          "currentFile" : "packages/hen/climb-20260925T150144Z.petpkg",
-          "previousFile" : "packages/hen/climb-20260810T071108Z.petpkg",
+          "currentFile" : "packages/hen/climb-20260925T150657Z.petpkg",
+          "previousFile" : "packages/hen/climb-20260925T150144Z.petpkg",
           "sourceHash" : "755915bcefbae2420377831f95ad4dc123795e96b2a93f137aae0c4bcdd368a0",
-          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/climb-20260925T150144Z.petpkg"
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/climb-20260925T150657Z.petpkg"
         },
         "idle" : {
-          "currentFile" : "packages/hen/idle-20260925T150144Z.petpkg",
-          "previousFile" : "packages/hen/idle-20260810T071108Z.petpkg",
+          "currentFile" : "packages/hen/idle-20260925T150657Z.petpkg",
+          "previousFile" : "packages/hen/idle-20260925T150144Z.petpkg",
           "sourceHash" : "ac5e65b57af33c6e60898d1157211e830880e1eb65b6ba9232562e39d09bb815",
-          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/idle-20260925T150144Z.petpkg"
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/idle-20260925T150657Z.petpkg"
         },
         "idle-sleep" : {
-          "currentFile" : "packages/hen/idle-sleep-20260925T150144Z.petpkg",
-          "previousFile" : "packages/hen/idle-sleep-20260810T071108Z.petpkg",
+          "currentFile" : "packages/hen/idle-sleep-20260925T150657Z.petpkg",
+          "previousFile" : "packages/hen/idle-sleep-20260925T150144Z.petpkg",
           "sourceHash" : "aeb257baacbeefac49e38fd8b568b1b12597fafa0915ef9bcae9094471f01770",
-          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/idle-sleep-20260925T150144Z.petpkg"
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/idle-sleep-20260925T150657Z.petpkg"
         },
         "run-left" : {
-          "currentFile" : "packages/hen/run-left-20260925T150144Z.petpkg",
-          "previousFile" : "packages/hen/run-left-20260810T071108Z.petpkg",
+          "currentFile" : "packages/hen/run-left-20260925T150657Z.petpkg",
+          "previousFile" : "packages/hen/run-left-20260925T150144Z.petpkg",
           "sourceHash" : "7209c77e030848fb10697dbc4a60bb6b72360ec5db4a17f7b83e115ecb945ece",
-          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/run-left-20260925T150144Z.petpkg"
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/run-left-20260925T150657Z.petpkg"
         },
         "run-right" : {
-          "currentFile" : "packages/hen/run-right-20260925T150144Z.petpkg",
-          "previousFile" : "packages/hen/run-right-20260810T071108Z.petpkg",
+          "currentFile" : "packages/hen/run-right-20260925T150657Z.petpkg",
+          "previousFile" : "packages/hen/run-right-20260925T150144Z.petpkg",
           "sourceHash" : "66547c7cc73f901458b537930b4af50028e63e2bc0e57a433df2a88d8d5ad0cd",
-          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/run-right-20260925T150144Z.petpkg"
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/hen/run-right-20260925T150657Z.petpkg"
         }
       },
-      "version" : 5
+      "version" : 6
     },
     "orange-cat" : {
       "actions" : {
         "climb" : {
-          "currentFile" : "packages/orange-cat/climb-20260925T150144Z.petpkg",
-          "previousFile" : "packages/orange-cat/climb-20260810T071108Z.petpkg",
+          "currentFile" : "packages/orange-cat/climb-20260925T150657Z.petpkg",
+          "previousFile" : "packages/orange-cat/climb-20260925T150144Z.petpkg",
           "sourceHash" : "e5ac718a50c46c693271fd1775ac867b4c5a86d57335d32f0d49b6d1f4ac3bd3",
-          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/climb-20260925T150144Z.petpkg"
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/climb-20260925T150657Z.petpkg"
         },
         "drag" : {
           "currentFile" : "packages/orange-cat/drag-20260810T071108Z.petpkg",
@@ -123,90 +152,90 @@
           "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/drag-20260810T071108Z.petpkg"
         },
         "idle" : {
-          "currentFile" : "packages/orange-cat/idle-20260925T150144Z.petpkg",
-          "previousFile" : "packages/orange-cat/idle-20260810T071108Z.petpkg",
+          "currentFile" : "packages/orange-cat/idle-20260925T150657Z.petpkg",
+          "previousFile" : "packages/orange-cat/idle-20260925T150144Z.petpkg",
           "sourceHash" : "25893ff90988f4384892e00f3118d780d0b5c0828d0c3ce7c9aa6dc7eea9f8fa",
-          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/idle-20260925T150144Z.petpkg"
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/idle-20260925T150657Z.petpkg"
         },
         "idle-play" : {
-          "currentFile" : "packages/orange-cat/idle-play-20260925T150144Z.petpkg",
-          "previousFile" : "packages/orange-cat/idle-play-20260810T071108Z.petpkg",
+          "currentFile" : "packages/orange-cat/idle-play-20260925T150657Z.petpkg",
+          "previousFile" : "packages/orange-cat/idle-play-20260925T150144Z.petpkg",
           "sourceHash" : "894101ebe858a2ccf54d582402b58a7e8a2edf7197fff30b44f097dfaa54711a",
-          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/idle-play-20260925T150144Z.petpkg"
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/idle-play-20260925T150657Z.petpkg"
         },
         "idle-sleep" : {
-          "currentFile" : "packages/orange-cat/idle-sleep-20260925T150144Z.petpkg",
-          "previousFile" : "packages/orange-cat/idle-sleep-20260810T071108Z.petpkg",
+          "currentFile" : "packages/orange-cat/idle-sleep-20260925T150657Z.petpkg",
+          "previousFile" : "packages/orange-cat/idle-sleep-20260925T150144Z.petpkg",
           "sourceHash" : "4787ee384ddca7ed9fd663f14e7c3a9f3c3bc14eda7faa97f351f59206762c0b",
-          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/idle-sleep-20260925T150144Z.petpkg"
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/idle-sleep-20260925T150657Z.petpkg"
         },
         "run-left" : {
-          "currentFile" : "packages/orange-cat/run-left-20260925T150144Z.petpkg",
-          "previousFile" : "packages/orange-cat/run-left-20260810T071108Z.petpkg",
+          "currentFile" : "packages/orange-cat/run-left-20260925T150657Z.petpkg",
+          "previousFile" : "packages/orange-cat/run-left-20260925T150144Z.petpkg",
           "sourceHash" : "616afebabc4dd81a6fb8df45fd51f594ae7ddeaba04827b5c5cf2d50d8ea0c75",
-          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/run-left-20260925T150144Z.petpkg"
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/run-left-20260925T150657Z.petpkg"
         },
         "run-right" : {
-          "currentFile" : "packages/orange-cat/run-right-20260925T150144Z.petpkg",
-          "previousFile" : "packages/orange-cat/run-right-20260810T071108Z.petpkg",
+          "currentFile" : "packages/orange-cat/run-right-20260925T150657Z.petpkg",
+          "previousFile" : "packages/orange-cat/run-right-20260925T150144Z.petpkg",
           "sourceHash" : "d71370fdba2d19721c41e1d21c3bdeecaa2bd15b7cfef2f17a64dc8422d8ef55",
-          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/run-right-20260925T150144Z.petpkg"
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/orange-cat/run-right-20260925T150657Z.petpkg"
         }
       },
-      "version" : 5
+      "version" : 6
     },
     "parrot" : {
       "actions" : {
         "idle" : {
-          "currentFile" : "packages/parrot/idle-20260925T150144Z.petpkg",
-          "previousFile" : "packages/parrot/idle-20260904T012323Z.petpkg",
+          "currentFile" : "packages/parrot/idle-20260925T150657Z.petpkg",
+          "previousFile" : "packages/parrot/idle-20260925T150144Z.petpkg",
           "sourceHash" : "85b119d41730c9a5673f6a8dfc5142df2cfbe8013e81ab6c28825acd26697322",
-          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-20260925T150144Z.petpkg"
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-20260925T150657Z.petpkg"
         },
         "idle-curiosity" : {
-          "currentFile" : "packages/parrot/idle-curiosity-20260925T150144Z.petpkg",
-          "previousFile" : "packages/parrot/idle-curiosity-20260904T012323Z.petpkg",
+          "currentFile" : "packages/parrot/idle-curiosity-20260925T150657Z.petpkg",
+          "previousFile" : "packages/parrot/idle-curiosity-20260925T150144Z.petpkg",
           "sourceHash" : "cd314477831ce4d2720075b0dcc877e775ecc0559d1d33167e5d693e843f35d5",
-          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-curiosity-20260925T150144Z.petpkg"
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-curiosity-20260925T150657Z.petpkg"
         },
         "idle-happy" : {
-          "currentFile" : "packages/parrot/idle-happy-20260925T150144Z.petpkg",
-          "previousFile" : "packages/parrot/idle-happy-20260904T012323Z.petpkg",
+          "currentFile" : "packages/parrot/idle-happy-20260925T150657Z.petpkg",
+          "previousFile" : "packages/parrot/idle-happy-20260925T150144Z.petpkg",
           "sourceHash" : "8a9c1a769cb01aac64471bec4a47e78778e70c70b0b3b5b3ecb79c337afc73ef",
-          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-happy-20260925T150144Z.petpkg"
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-happy-20260925T150657Z.petpkg"
         },
         "idle-look" : {
-          "currentFile" : "packages/parrot/idle-look-20260925T150144Z.petpkg",
-          "previousFile" : "packages/parrot/idle-look-20260904T012323Z.petpkg",
+          "currentFile" : "packages/parrot/idle-look-20260925T150657Z.petpkg",
+          "previousFile" : "packages/parrot/idle-look-20260925T150144Z.petpkg",
           "sourceHash" : "d42267c9fba09d506fe39a5da9a815ed945fcf8dbb6f2497b21ddc0ad5433de9",
-          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-look-20260925T150144Z.petpkg"
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-look-20260925T150657Z.petpkg"
         },
         "idle-sleep" : {
-          "currentFile" : "packages/parrot/idle-sleep-20260925T150144Z.petpkg",
-          "previousFile" : "packages/parrot/idle-sleep-20260904T012323Z.petpkg",
+          "currentFile" : "packages/parrot/idle-sleep-20260925T150657Z.petpkg",
+          "previousFile" : "packages/parrot/idle-sleep-20260925T150144Z.petpkg",
           "sourceHash" : "bddc7971d5e242f829a8c8312aff3144c9f551bac0bd8ad0f37ee98fe0ad50f7",
-          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-sleep-20260925T150144Z.petpkg"
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-sleep-20260925T150657Z.petpkg"
         },
         "idle-speak" : {
-          "currentFile" : "packages/parrot/idle-speak-20260925T150144Z.petpkg",
-          "previousFile" : "packages/parrot/idle-speak-20260904T012323Z.petpkg",
+          "currentFile" : "packages/parrot/idle-speak-20260925T150657Z.petpkg",
+          "previousFile" : "packages/parrot/idle-speak-20260925T150144Z.petpkg",
           "sourceHash" : "517106e250df835b0ae017f546488df7b6ad6fa14e93034004544ce4d55c92ee",
-          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-speak-20260925T150144Z.petpkg"
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/idle-speak-20260925T150657Z.petpkg"
         },
         "run-left" : {
-          "currentFile" : "packages/parrot/run-left-20260925T150144Z.petpkg",
-          "previousFile" : "packages/parrot/run-left-20260904T012323Z.petpkg",
+          "currentFile" : "packages/parrot/run-left-20260925T150657Z.petpkg",
+          "previousFile" : "packages/parrot/run-left-20260925T150144Z.petpkg",
           "sourceHash" : "9c18f6d2f25714d1bab8594b82e31422a8c03f53afc548e2cdcc97a0df92cb0b",
-          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/run-left-20260925T150144Z.petpkg"
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/run-left-20260925T150657Z.petpkg"
         },
         "run-right" : {
-          "currentFile" : "packages/parrot/run-right-20260925T150144Z.petpkg",
-          "previousFile" : "packages/parrot/run-right-20260904T012323Z.petpkg",
+          "currentFile" : "packages/parrot/run-right-20260925T150657Z.petpkg",
+          "previousFile" : "packages/parrot/run-right-20260925T150144Z.petpkg",
           "sourceHash" : "134ec65efff9d81f5658a5a1ad84f58f3fa7576f064f11695ac7948b45f80f1e",
-          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/run-right-20260925T150144Z.petpkg"
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/parrot/run-right-20260925T150657Z.petpkg"
         }
       },
-      "version" : 2
+      "version" : 3
     }
   }
 }
