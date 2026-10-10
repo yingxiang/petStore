@@ -34,6 +34,46 @@
       },
       "version" : 6
     },
+    "GoldenRetriever" : {
+      "actions" : {
+        "idle" : {
+          "currentFile" : "packages/GoldenRetriever/idle-20261010T133721Z.petpkg",
+          "sourceHash" : "9e84c4bf6890c86a325fd7492c3b04e6eaa24e22eb2d4ffde54dbc9c6d758ad9",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/GoldenRetriever/idle-20261010T133721Z.petpkg"
+        },
+        "idle-bone" : {
+          "currentFile" : "packages/GoldenRetriever/idle-bone-20261010T133721Z.petpkg",
+          "sourceHash" : "0245cb0e7b811f99e848ddf87760b158f8cc577e37926a9e60b783ef5a5b5bca",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/GoldenRetriever/idle-bone-20261010T133721Z.petpkg"
+        },
+        "idle-roll" : {
+          "currentFile" : "packages/GoldenRetriever/idle-roll-20261010T133721Z.petpkg",
+          "sourceHash" : "ba9fe80d6f2d33e755ca8c81f38d8f1e77932d9fb793c931d8e9b33aad0c1249",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/GoldenRetriever/idle-roll-20261010T133721Z.petpkg"
+        },
+        "idle-sleep" : {
+          "currentFile" : "packages/GoldenRetriever/idle-sleep-20261010T133721Z.petpkg",
+          "sourceHash" : "ad600ed5a7d348292f5a497103bfadd8b30a44156cedd138c2e8d619d778b412",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/GoldenRetriever/idle-sleep-20261010T133721Z.petpkg"
+        },
+        "idle-spin" : {
+          "currentFile" : "packages/GoldenRetriever/idle-spin-20261010T133721Z.petpkg",
+          "sourceHash" : "0ff93c6231895d16253f7171361cba7afab056290b30a557f52a36cfb2919176",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/GoldenRetriever/idle-spin-20261010T133721Z.petpkg"
+        },
+        "run-left" : {
+          "currentFile" : "packages/GoldenRetriever/run-left-20261010T133721Z.petpkg",
+          "sourceHash" : "917ddeb1199836b98b4da59562f57cec1168c3360ecc8b507311e7e9dccd7613",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/GoldenRetriever/run-left-20261010T133721Z.petpkg"
+        },
+        "run-right" : {
+          "currentFile" : "packages/GoldenRetriever/run-right-20261010T133721Z.petpkg",
+          "sourceHash" : "10cae8b04c9fc1dd7b48edd35ab8610088b05d23759c23645433b8d821be01e6",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/GoldenRetriever/run-right-20261010T133721Z.petpkg"
+        }
+      },
+      "version" : 1
+    },
     "Husky" : {
       "actions" : {
         "idle" : {
@@ -73,6 +113,46 @@
         }
       },
       "version" : 2
+    },
+    "Tabby" : {
+      "actions" : {
+        "idle" : {
+          "currentFile" : "packages/Tabby/idle-20261010T133721Z.petpkg",
+          "sourceHash" : "68b0bfa97803a04197e166557e4c7f933ba543cde7025577017c272fba4d4f86",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Tabby/idle-20261010T133721Z.petpkg"
+        },
+        "idle-fish" : {
+          "currentFile" : "packages/Tabby/idle-fish-20261010T133721Z.petpkg",
+          "sourceHash" : "dd477fb2ff69e801c1c580cf413e0ad63769e9b6860a5366f8c045a54eba7f89",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Tabby/idle-fish-20261010T133721Z.petpkg"
+        },
+        "idle-roll" : {
+          "currentFile" : "packages/Tabby/idle-roll-20261010T133721Z.petpkg",
+          "sourceHash" : "be861cc1b5a3be94cd91c2cff6a1d0d793951f170529b81da6219e2b64b2b98d",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Tabby/idle-roll-20261010T133721Z.petpkg"
+        },
+        "idle-sleep" : {
+          "currentFile" : "packages/Tabby/idle-sleep-20261010T133721Z.petpkg",
+          "sourceHash" : "d8bc0a915448bae407c5f749c42aa725fd2e9d1a379c9d92ded13223a65a017e",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Tabby/idle-sleep-20261010T133721Z.petpkg"
+        },
+        "idle-spin" : {
+          "currentFile" : "packages/Tabby/idle-spin-20261010T133721Z.petpkg",
+          "sourceHash" : "132a21890f587c834e55b18136b4a9075040cf2502d53c174d807dfcf0f43d43",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Tabby/idle-spin-20261010T133721Z.petpkg"
+        },
+        "run-left" : {
+          "currentFile" : "packages/Tabby/run-left-20261010T133721Z.petpkg",
+          "sourceHash" : "3b2e4002deced0f65bc2154e38cf37a7b4a324758a42324c10e824960b65b396",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Tabby/run-left-20261010T133721Z.petpkg"
+        },
+        "run-right" : {
+          "currentFile" : "packages/Tabby/run-right-20261010T133721Z.petpkg",
+          "sourceHash" : "2991d51ffa32e7add1cbd06dfae0312f124ac9b114950ca8a013f6de9a936f29",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Tabby/run-right-20261010T133721Z.petpkg"
+        }
+      },
+      "version" : 1
     },
     "goose" : {
       "actions" : {

@@ -1,6 +1,7 @@
 {
   "pets" : {
     "Corgi" : {
+      "adoptionCount" : 52,
       "descriptionLocalizationKey" : {
         "de" : "Ein fröhlicher und zutraulicher kleiner Corgi.",
         "en" : "A cheerful and affectionate little corgi.",
@@ -26,12 +27,13 @@
       },
       "movementSpeedMultiplier" : 1.2,
       "store" : {
+        "badge" : "popular",
         "compatiblePetFamilies" : [
           "corgi"
         ],
         "enabled" : true,
         "minimumAppVersion" : "1.0",
-        "sortOrder" : 1,
+        "sortOrder" : 3,
         "storeKitProductID" : "com.lingchen.pet.corgi"
       },
       "titleLocalizationKey" : {
@@ -47,7 +49,60 @@
       },
       "version" : 6
     },
+    "GoldenRetriever" : {
+      "adoptionCount" : 2,
+      "descriptionLocalizationKey" : {
+        "de" : "Ein sanfter, verspielter Golden Retriever, der sich gern herumrollt und an Knochen kaut.",
+        "en" : "A gentle, playful golden retriever who loves rolling around and chewing bones.",
+        "fr" : "Un golden retriever doux et joueur qui adore se rouler par terre et ronger des os.",
+        "it" : "Un golden retriever dolce e giocherellone che ama rotolarsi e rosicchiare ossi.",
+        "ja" : "優しく元気なゴールデンレトリバー。ごろごろ転がったり、骨をかじったりするのが大好き。",
+        "ko" : "온순하고 활발한 골든 리트리버. 데굴데굴 구르기와 뼈다귀 씹기를 좋아해요.",
+        "ru" : "Добрый и игривый золотистый ретривер, который любит кувыркаться и грызть косточки.",
+        "zh-Hans" : "一只温柔又活泼的金毛，喜欢打滚，也爱啃骨头。",
+        "zh-Hant" : "一隻溫柔又活潑的金毛，喜歡打滾，也愛啃骨頭。"
+      },
+      "fileAddress" : {
+        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/GoldenRetriever/idle-20261010T133721Z.petpkg",
+        "idle-bone" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/GoldenRetriever/idle-bone-20261010T133721Z.petpkg",
+        "idle-roll" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/GoldenRetriever/idle-roll-20261010T133721Z.petpkg",
+        "idle-sleep" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/GoldenRetriever/idle-sleep-20261010T133721Z.petpkg",
+        "idle-spin" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/GoldenRetriever/idle-spin-20261010T133721Z.petpkg",
+        "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/GoldenRetriever/run-left-20261010T133721Z.petpkg",
+        "run-right" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/GoldenRetriever/run-right-20261010T133721Z.petpkg"
+      },
+      "imageSizing" : {
+        "catContentLeftInsetRatio" : 0.375,
+        "catContentWidthRatio" : 0.25,
+        "framesPerStep" : 1,
+        "stepDistanceImageWidthRatio" : 0.125
+      },
+      "movementSpeedMultiplier" : 1.2,
+      "store" : {
+        "badge" : "new",
+        "compatiblePetFamilies" : [
+          "goldenretriever"
+        ],
+        "enabled" : true,
+        "minimumAppVersion" : "1.0",
+        "sortOrder" : -1,
+        "storeKitProductID" : "com.lingchen.pet.golden"
+      },
+      "titleLocalizationKey" : {
+        "de" : "Golden Retriever",
+        "en" : "Golden Retriever",
+        "fr" : "Golden retriever",
+        "it" : "Golden Retriever",
+        "ja" : "ゴールデンレトリバー",
+        "ko" : "골든 리트리버",
+        "ru" : "Золотистый ретривер",
+        "zh-Hans" : "金毛",
+        "zh-Hant" : "金毛"
+      },
+      "version" : 1
+    },
     "Husky" : {
+      "adoptionCount" : 56,
       "descriptionLocalizationKey" : {
         "de" : "Ein verspielter und neugieriger kleiner Husky.",
         "en" : "A playful and curious little husky.",
@@ -76,12 +131,13 @@
       },
       "movementSpeedMultiplier" : 1.2,
       "store" : {
+        "badge" : "new",
         "compatiblePetFamilies" : [
           "husky"
         ],
         "enabled" : true,
         "minimumAppVersion" : "1.0",
-        "sortOrder" : 6,
+        "sortOrder" : 1,
         "storeKitProductID" : "com.lingchen.pet.husky"
       },
       "titleLocalizationKey" : {
@@ -97,7 +153,60 @@
       },
       "version" : 2
     },
+    "Tabby" : {
+      "adoptionCount" : 1,
+      "descriptionLocalizationKey" : {
+        "de" : "Eine verspielte, neugierige Tigerkatze, die sich gern herumrollt und Fisch liebt.",
+        "en" : "A playful, curious tabby who loves rolling around and eating fish.",
+        "fr" : "Un chat tigré curieux et joueur qui adore se rouler par terre et manger du poisson.",
+        "it" : "Un gatto tigrato curioso e giocherellone che ama rotolarsi e mangiare pesce.",
+        "ja" : "好奇心いっぱいのキジトラ猫。ごろごろ転がることと、お魚が大好き。",
+        "ko" : "호기심 많고 장난기 가득한 태비 고양이. 데굴데굴 구르기와 생선을 좋아해요.",
+        "ru" : "Любопытный и игривый полосатый кот, который любит кувыркаться и лакомиться рыбой.",
+        "zh-Hans" : "一只俏皮又好奇的狸花猫，喜欢打滚，也爱吃鱼。",
+        "zh-Hant" : "一隻俏皮又好奇的狸花貓，喜歡打滾，也愛吃魚。"
+      },
+      "fileAddress" : {
+        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Tabby/idle-20261010T133721Z.petpkg",
+        "idle-fish" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Tabby/idle-fish-20261010T133721Z.petpkg",
+        "idle-roll" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Tabby/idle-roll-20261010T133721Z.petpkg",
+        "idle-sleep" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Tabby/idle-sleep-20261010T133721Z.petpkg",
+        "idle-spin" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Tabby/idle-spin-20261010T133721Z.petpkg",
+        "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Tabby/run-left-20261010T133721Z.petpkg",
+        "run-right" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Tabby/run-right-20261010T133721Z.petpkg"
+      },
+      "imageSizing" : {
+        "catContentLeftInsetRatio" : 0.375,
+        "catContentWidthRatio" : 0.25,
+        "framesPerStep" : 1,
+        "stepDistanceImageWidthRatio" : 0.125
+      },
+      "movementSpeedMultiplier" : 1.2,
+      "store" : {
+        "badge" : "new",
+        "compatiblePetFamilies" : [
+          "tabby"
+        ],
+        "enabled" : true,
+        "minimumAppVersion" : "1.0",
+        "sortOrder" : 0,
+        "storeKitProductID" : "com.lingchen.pet.tabby_cat"
+      },
+      "titleLocalizationKey" : {
+        "de" : "Tigerkatze",
+        "en" : "Tabby Cat",
+        "fr" : "Chat tigré",
+        "it" : "Gatto tigrato",
+        "ja" : "キジトラ猫",
+        "ko" : "태비 고양이",
+        "ru" : "Полосатый кот",
+        "zh-Hans" : "狸花猫",
+        "zh-Hant" : "狸花貓"
+      },
+      "version" : 1
+    },
     "goose" : {
+      "adoptionCount" : 21,
       "descriptionLocalizationKey" : {
         "de" : "Eine stolze und niedliche kleine Gans.",
         "en" : "A proud and charming little goose.",
@@ -128,7 +237,7 @@
         ],
         "enabled" : true,
         "minimumAppVersion" : "1.0",
-        "sortOrder" : 3,
+        "sortOrder" : 5,
         "storeKitProductID" : "com.lingchen.pet.goose"
       },
       "titleLocalizationKey" : {
@@ -145,6 +254,7 @@
       "version" : 4
     },
     "hen" : {
+      "adoptionCount" : 22,
       "descriptionLocalizationKey" : {
         "de" : "Eine lebhafte kleine Henne, die über deinen Schreibtisch flitzt.",
         "en" : "A lively little hen who scurries across your desktop.",
@@ -176,7 +286,7 @@
         ],
         "enabled" : true,
         "minimumAppVersion" : "1.0",
-        "sortOrder" : 2,
+        "sortOrder" : 4,
         "storeKitProductID" : "com.lingchen.pet.hen"
       },
       "titleLocalizationKey" : {
@@ -193,6 +303,7 @@
       "version" : 6
     },
     "orange-cat" : {
+      "adoptionCount" : 83,
       "descriptionLocalizationKey" : {
         "de" : "Eine neugierige orangefarbene Katze, die an deinen Fenstern bleibt.",
         "en" : "A curious orange cat who stays by your windows.",
@@ -220,12 +331,13 @@
       },
       "movementSpeedMultiplier" : 1.2,
       "store" : {
+        "badge" : "popular",
         "compatiblePetFamilies" : [
           "orange-cat"
         ],
         "enabled" : true,
         "minimumAppVersion" : "1.0",
-        "sortOrder" : 0,
+        "sortOrder" : 2,
         "storeKitProductID" : "com.lingchen.pet.orangecat"
       },
       "titleLocalizationKey" : {
@@ -242,6 +354,7 @@
       "version" : 6
     },
     "parrot" : {
+      "adoptionCount" : 11,
       "descriptionLocalizationKey" : {
         "de" : "Ein kluger und lebhafter kleiner Papagei.",
         "en" : "A clever and lively little parrot.",
@@ -276,7 +389,7 @@
         ],
         "enabled" : true,
         "minimumAppVersion" : "1.0",
-        "sortOrder" : 4,
+        "sortOrder" : 6,
         "storeKitProductID" : "com.lingchen.pet.parrot"
       },
       "titleLocalizationKey" : {
@@ -294,5 +407,5 @@
     }
   },
   "schemaVersion" : 2,
-  "updatedAt" : "2026-09-25T15:06:58Z"
+  "updatedAt" : "2026-10-10T13:37:22Z"
 }
