@@ -1,7 +1,7 @@
 {
   "pets" : {
     "Corgi" : {
-      "adoptionCount" : 52,
+      "adoptionCount" : 54,
       "descriptionLocalizationKey" : {
         "de" : "Ein fröhlicher und zutraulicher kleiner Corgi.",
         "en" : "A cheerful and affectionate little corgi.",
@@ -50,7 +50,7 @@
       "version" : 6
     },
     "GoldenRetriever" : {
-      "adoptionCount" : 2,
+      "adoptionCount" : 4,
       "descriptionLocalizationKey" : {
         "de" : "Ein sanfter, verspielter Golden Retriever, der sich gern herumrollt und an Knochen kaut.",
         "en" : "A gentle, playful golden retriever who loves rolling around and chewing bones.",
@@ -102,7 +102,7 @@
       "version" : 1
     },
     "Husky" : {
-      "adoptionCount" : 56,
+      "adoptionCount" : 58,
       "descriptionLocalizationKey" : {
         "de" : "Ein verspielter und neugieriger kleiner Husky.",
         "en" : "A playful and curious little husky.",
@@ -154,7 +154,7 @@
       "version" : 2
     },
     "Tabby" : {
-      "adoptionCount" : 1,
+      "adoptionCount" : 3,
       "descriptionLocalizationKey" : {
         "de" : "Eine verspielte, neugierige Tigerkatze, die sich gern herumrollt und Fisch liebt.",
         "en" : "A playful, curious tabby who loves rolling around and eating fish.",
@@ -206,7 +206,7 @@
       "version" : 1
     },
     "goose" : {
-      "adoptionCount" : 21,
+      "adoptionCount" : 23,
       "descriptionLocalizationKey" : {
         "de" : "Eine stolze und niedliche kleine Gans.",
         "en" : "A proud and charming little goose.",
@@ -254,7 +254,7 @@
       "version" : 4
     },
     "hen" : {
-      "adoptionCount" : 22,
+      "adoptionCount" : 24,
       "descriptionLocalizationKey" : {
         "de" : "Eine lebhafte kleine Henne, die über deinen Schreibtisch flitzt.",
         "en" : "A lively little hen who scurries across your desktop.",
@@ -303,7 +303,7 @@
       "version" : 6
     },
     "orange-cat" : {
-      "adoptionCount" : 83,
+      "adoptionCount" : 85,
       "descriptionLocalizationKey" : {
         "de" : "Eine neugierige orangefarbene Katze, die an deinen Fenstern bleibt.",
         "en" : "A curious orange cat who stays by your windows.",
@@ -354,7 +354,7 @@
       "version" : 6
     },
     "parrot" : {
-      "adoptionCount" : 11,
+      "adoptionCount" : 13,
       "descriptionLocalizationKey" : {
         "de" : "Ein kluger und lebhafter kleiner Papagei.",
         "en" : "A clever and lively little parrot.",
