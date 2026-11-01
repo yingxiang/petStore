@@ -1,7 +1,6 @@
 {
   "pets" : {
     "Corgi" : {
-      "adoptionCount" : 54,
       "descriptionLocalizationKey" : {
         "de" : "Ein fröhlicher und zutraulicher kleiner Corgi.",
         "en" : "A cheerful and affectionate little corgi.",
@@ -50,7 +49,6 @@
       "version" : 6
     },
     "GoldenRetriever" : {
-      "adoptionCount" : 4,
       "descriptionLocalizationKey" : {
         "de" : "Ein sanfter, verspielter Golden Retriever, der sich gern herumrollt und an Knochen kaut.",
         "en" : "A gentle, playful golden retriever who loves rolling around and chewing bones.",
@@ -102,7 +100,6 @@
       "version" : 1
     },
     "Husky" : {
-      "adoptionCount" : 58,
       "descriptionLocalizationKey" : {
         "de" : "Ein verspielter und neugieriger kleiner Husky.",
         "en" : "A playful and curious little husky.",
@@ -153,8 +150,58 @@
       },
       "version" : 2
     },
+    "Samoyed" : {
+      "descriptionLocalizationKey" : {
+        "de" : "Ein flauschiger kleiner Samojede mit einem warmen Lächeln, der dich bei der Arbeit und in Pausen begleitet.",
+        "en" : "A fluffy little Samoyed with a warm smile, keeping you company at work and at rest.",
+        "fr" : "Un petit samoyède tout doux au sourire chaleureux, à vos côtés au travail comme au repos.",
+        "it" : "Un soffice samoiedo dal sorriso dolce, al tuo fianco mentre lavori e riposi.",
+        "ja" : "ふわふわの笑顔がかわいいサモエド。仕事中も休憩中もやさしく寄り添います。",
+        "ko" : "포근한 미소의 복슬복슬한 사모예드. 일할 때도 쉴 때도 다정하게 곁을 지켜요.",
+        "ru" : "Пушистый маленький самоед с доброй улыбкой составит компанию за работой и во время отдыха.",
+        "zh-Hans" : "一只爱笑的毛绒小萨摩耶，温柔陪你工作和休息。",
+        "zh-Hant" : "一隻愛笑的毛絨小薩摩耶，溫柔陪你工作和休息。"
+      },
+      "fileAddress" : {
+        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Samoyed/idle-20261030T093017Z.petpkg",
+        "idle-2" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Samoyed/idle-2-20261030T093017Z.petpkg",
+        "idle-3" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Samoyed/idle-3-20261030T093017Z.petpkg",
+        "idle-4" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Samoyed/idle-4-20261030T093017Z.petpkg",
+        "idle-bone" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Samoyed/idle-bone-20261030T093017Z.petpkg",
+        "idle-see" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Samoyed/idle-see-20261030T093017Z.petpkg",
+        "idle-sleep" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Samoyed/idle-sleep-20261030T093017Z.petpkg"
+      },
+      "imageSizing" : {
+        "catContentLeftInsetRatio" : 0.375,
+        "catContentWidthRatio" : 0.25,
+        "framesPerStep" : 1,
+        "stepDistanceImageWidthRatio" : 0.125
+      },
+      "movementSpeedMultiplier" : 1.2,
+      "store" : {
+        "badge" : "new",
+        "compatiblePetFamilies" : [
+          "samoyed"
+        ],
+        "enabled" : true,
+        "minimumAppVersion" : "1.0",
+        "sortOrder" : -2,
+        "storeKitProductID" : "com.lingchen.pet.samoyed"
+      },
+      "titleLocalizationKey" : {
+        "de" : "Samojede",
+        "en" : "Samoyed",
+        "fr" : "Samoyède",
+        "it" : "Samoiedo",
+        "ja" : "サモエド",
+        "ko" : "사모예드",
+        "ru" : "Самоед",
+        "zh-Hans" : "萨摩耶",
+        "zh-Hant" : "薩摩耶"
+      },
+      "version" : 1
+    },
     "Tabby" : {
-      "adoptionCount" : 3,
       "descriptionLocalizationKey" : {
         "de" : "Eine verspielte, neugierige Tigerkatze, die sich gern herumrollt und Fisch liebt.",
         "en" : "A playful, curious tabby who loves rolling around and eating fish.",
@@ -206,7 +253,6 @@
       "version" : 1
     },
     "goose" : {
-      "adoptionCount" : 23,
       "descriptionLocalizationKey" : {
         "de" : "Eine stolze und niedliche kleine Gans.",
         "en" : "A proud and charming little goose.",
@@ -254,7 +300,6 @@
       "version" : 4
     },
     "hen" : {
-      "adoptionCount" : 24,
       "descriptionLocalizationKey" : {
         "de" : "Eine lebhafte kleine Henne, die über deinen Schreibtisch flitzt.",
         "en" : "A lively little hen who scurries across your desktop.",
@@ -303,7 +348,6 @@
       "version" : 6
     },
     "orange-cat" : {
-      "adoptionCount" : 85,
       "descriptionLocalizationKey" : {
         "de" : "Eine neugierige orangefarbene Katze, die an deinen Fenstern bleibt.",
         "en" : "A curious orange cat who stays by your windows.",
@@ -354,7 +398,6 @@
       "version" : 6
     },
     "parrot" : {
-      "adoptionCount" : 13,
       "descriptionLocalizationKey" : {
         "de" : "Ein kluger und lebhafter kleiner Papagei.",
         "en" : "A clever and lively little parrot.",
@@ -407,5 +450,5 @@
     }
   },
   "schemaVersion" : 2,
-  "updatedAt" : "2026-10-10T13:37:22Z"
+  "updatedAt" : "2026-10-30T09:30:17Z"
 }
