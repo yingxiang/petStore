@@ -163,13 +163,15 @@
         "zh-Hant" : "一隻愛笑的毛絨小薩摩耶，溫柔陪你工作和休息。"
       },
       "fileAddress" : {
-        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Samoyed/idle-20261030T093017Z.petpkg",
+        "idle" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Samoyed/idle-20261110T084520Z.petpkg",
         "idle-2" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Samoyed/idle-2-20261030T093017Z.petpkg",
         "idle-3" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Samoyed/idle-3-20261030T093017Z.petpkg",
         "idle-4" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Samoyed/idle-4-20261030T093017Z.petpkg",
         "idle-bone" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Samoyed/idle-bone-20261030T093017Z.petpkg",
         "idle-see" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Samoyed/idle-see-20261030T093017Z.petpkg",
-        "idle-sleep" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Samoyed/idle-sleep-20261030T093017Z.petpkg"
+        "idle-sleep" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Samoyed/idle-sleep-20261030T093017Z.petpkg",
+        "run-left" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Samoyed/run-left-20261110T084520Z.petpkg",
+        "run-right" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Samoyed/run-right-20261110T084520Z.petpkg"
       },
       "imageSizing" : {
         "catContentLeftInsetRatio" : 0.375,
@@ -199,7 +201,7 @@
         "zh-Hans" : "萨摩耶",
         "zh-Hant" : "薩摩耶"
       },
-      "version" : 1
+      "version" : 3
     },
     "Tabby" : {
       "descriptionLocalizationKey" : {
@@ -450,5 +452,5 @@
     }
   },
   "schemaVersion" : 2,
-  "updatedAt" : "2026-10-30T09:30:17Z"
+  "updatedAt" : "2026-11-10T08:45:21Z"
 }

@@ -117,9 +117,10 @@
     "Samoyed" : {
       "actions" : {
         "idle" : {
-          "currentFile" : "packages/Samoyed/idle-20261030T093017Z.petpkg",
-          "sourceHash" : "df99f396971a41e2f0b1aecf125d9bb17468228fa5066a202932a259a8d22baf",
-          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Samoyed/idle-20261030T093017Z.petpkg"
+          "currentFile" : "packages/Samoyed/idle-20261110T084520Z.petpkg",
+          "previousFile" : "packages/Samoyed/idle-20261110T084412Z.petpkg",
+          "sourceHash" : "01e2d134592c108fcfb08769d2eb5d636e976ed35ebc1a5410922b4d0da65407",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Samoyed/idle-20261110T084520Z.petpkg"
         },
         "idle-2" : {
           "currentFile" : "packages/Samoyed/idle-2-20261030T093017Z.petpkg",
@@ -150,9 +151,21 @@
           "currentFile" : "packages/Samoyed/idle-sleep-20261030T093017Z.petpkg",
           "sourceHash" : "18c7d5c795bae77c3e836ce8f8296b843ab9d3ae2213eb4c409b82345b88d6a3",
           "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Samoyed/idle-sleep-20261030T093017Z.petpkg"
+        },
+        "run-left" : {
+          "currentFile" : "packages/Samoyed/run-left-20261110T084520Z.petpkg",
+          "previousFile" : "packages/Samoyed/run-left-20261110T084412Z.petpkg",
+          "sourceHash" : "84a4127cb88054b9cd77b74cb9b05b065ea2eb9991b176b67aab1adca2615208",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Samoyed/run-left-20261110T084520Z.petpkg"
+        },
+        "run-right" : {
+          "currentFile" : "packages/Samoyed/run-right-20261110T084520Z.petpkg",
+          "previousFile" : "packages/Samoyed/run-right-20261110T084412Z.petpkg",
+          "sourceHash" : "531b14a0817b2dca842e15118ff366145babd98c8d85b70566b72b8149cefb53",
+          "url" : "https://cdn.jsdelivr.net/gh/yingxiang/petStore@main/packages/Samoyed/run-right-20261110T084520Z.petpkg"
         }
       },
-      "version" : 1
+      "version" : 3
     },
     "Tabby" : {
       "actions" : {
